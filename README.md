@@ -1,1 +1,1 @@
-# error_tracker
+fixed logging
